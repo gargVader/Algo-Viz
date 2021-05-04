@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AlgoViz:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AlgoViz_jar</output-path>
+    <root id="archive" name="AlgoViz.jar">
+      <element id="module-output" name="AlgoViz" />
+    </root>
+  </artifact>
+</component>
