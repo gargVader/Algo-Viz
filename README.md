@@ -2,14 +2,14 @@
 <img src="Images/banner.png" alt="Banner" />
 Algorithm Visualizer App made in Java
 
-## Algorithms
-### Selection Sort
+## 💻 Algorithms
+### 🔴 Selection Sort
 <img width=400 src="Images/selection.gif" alt="Selection" />
-### Bubble Sort
+### 🔴 Bubble Sort
 <img width=400 src="Images/bubble.gif" alt="Bubble" />
-### Insertion Sort
+### 🔴 Insertion Sort
 <img width=400 src="Images/insertion.gif" alt="Insertion" />
-### Quick Sort
+### 🔴 Quick Sort
 <img width=400 src="Images/quick.gif" alt="Quick" />
-### DNF Sort
+### 🔴 DNF Sort
 <img width=400 src="Images/dnf.gif" alt="DNF" />
